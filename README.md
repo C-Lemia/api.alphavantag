@@ -9,7 +9,7 @@ Escolhi aqui o SQLite que é um banco de dados leve, que pode ser útil para pro
 
 - Baixe o arquivo executavel do SQLite do site https://www.sqlite.org/download.html
 - Baixar os arquivos sqlite-tools-win e sqlite-dll-win
-- Extrair ambos, copiar os arquivos da pasta sqlite-dll-win para a pasta sqlite-tools-win > renomear a pasta sqlite-tools-win para sqlite3 > copiar a pasta par o disco local.
+- Extrair ambos, copiar os arquivos da pasta sqlite-dll-win para a pasta sqlite-tools-win > renomear a pasta sqlite-tools-win para sqlite3 > copiar a pasta para o disco local.
 - Feito o caminho explicado anteriormente, copiar o caminho da pasta sqlite3 e colocar no path > abrir o cmd e verificar se o computador reconhece o caminho do sqlite3: sqlite3
 - Extraia o arquivo zip > Adicione o SQLite ao seu caminho do sistema > Vá até Configurações Avançadas do Sistema > Variáveis de Ambiente. Em Variáveis do Sistema, selecione Path e clique em Editar, adicione o caminho do arquivo SQLite e clique em ok.
 - Abra o Prompt de Comando e digite > caminhe até a pasta do arquivo e digite o nome do executavel: sqlite3
