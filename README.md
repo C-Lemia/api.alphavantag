@@ -15,6 +15,8 @@ Escolhi aqui o SQLite que é um banco de dados leve, que pode ser útil para pro
 - Abra o Prompt de Comando e digite > caminhe até a pasta do arquivo e digite o nome do executavel: sqlite3
 - Baixe o DB Browser for SQLite : https://sqlitebrowser.org/dl/
 - Faça a instalação.
+
+  
 ![image](https://github.com/user-attachments/assets/4afa9ba7-5e56-4044-8157-7dcb04fec098)
 
 #### SQLite para Power BI
